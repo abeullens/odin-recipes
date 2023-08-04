@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: green;
+    color: white;
+}
+
+h2 {
+    color: rgb(235, 161, 161);
+}
+
+p {
+    font-size: xx-large;
+    text-decoration:underline;
+    text-align: left;
+}
+
+.links a {
+    color: rgb(239, 183, 183);
+    font-size:1100;
+}
