@@ -2,19 +2,63 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: green;
     color: white;
-}
+    margin: 0px;
+    }
+.title {
+    text-align: center;
+    margin:30px 400px;
+    background-color: red;
+    background-blend-mode: lighten;
+    }
 
-h2 {
-    color: rgb(235, 161, 161);
+img {
+    margin-left: 511px;
+    border: 2px solid red;
 }
+h2 {
+    color: rgb(247, 246, 246);
+    text-align: center;
+    margin:30px 400px;
+    }
 
 p {
     font-size: xx-large;
-    text-decoration:underline;
     text-align: left;
-}
+    }
 
-.links a {
-    color: rgb(239, 183, 183);
-    font-size:1100;
-}
+.start {
+    text-decoration:underline;
+    margin-right: 1250px;
+    margin-bottom: 2px;
+    }
+a {
+    color: rgb(3, 3, 3);
+    }
+
+.lasagna {
+    height:70px;
+    width: 140px;
+    padding: 10px;
+    margin-left: 100px;
+    display: inline-block;
+    border: 2px solid rgb(7, 7, 7);
+    background-color:green; 
+    }
+
+.risotto {
+    height:70px;
+    width: 140px;
+    padding: 10px;
+    display: inline-block;
+    border: 2px solid rgb(7, 7, 7);
+    }
+
+.puttanesca {
+    height:70px;
+    width: 140px;
+    padding: 10px;
+    display: inline-block;
+    border: 2px solid rgb(7, 7, 7);
+    background-color: red;
+    margin-bottom: 20px;
+    }
